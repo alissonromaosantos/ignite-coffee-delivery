@@ -7,14 +7,14 @@ import { FieldValues, UseFormReset } from 'react-hook-form'
 interface CartQuantityProps {
   coffeeId: string
   quantity: number
-  reset: UseFormReset<FieldValues>
+  reset?: UseFormReset<FieldValues>
 }
 
 export function CartQuantity({ coffeeId, quantity, reset }: CartQuantityProps) {
   const { addCoffeeToCart, pullOutCoffeeToCart } = useContext(OrderContext)
 
   function handlePullOutCoffeeToCart(coffeeId: string) {
-    pullOutCoffeeToCart(coffeeId, reset)
+    pullOutCoffeeToCart(coffeeId, reset!)
   }
 
   function handleAddCoffeeToCart(coffeeId: string) {

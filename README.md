@@ -7,7 +7,7 @@
 Coffee Delivery é um projeto em React desenvolvido para pedidos de café online. Ele utiliza styled-components, react-router-dom, zod, react-hook-form, uuid, eslint e phosphor-icons. O projeto permite aos usuários adicionar e remover produtos do carrinho de compras.
 
 ## Ilustração
-![Página Principal](/.github/homepage.png)
+![Página Principal](/src/assets/homepage.png)
 
 ## Configuração
 

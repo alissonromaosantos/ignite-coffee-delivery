@@ -57,7 +57,7 @@ Sinta-se à vontade para explorar a base de código e personalizar a aplicação
 
 ## Deploy
 ```bash
-https://coffee-delivery-beta-rosy.vercel.app/
+https://coffee-delivery-psi-seven.vercel.app/
 ```
 
 ## Contribuições

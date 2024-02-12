@@ -42,13 +42,13 @@ Assim que o projeto estiver configurado e em execução localmente, você pode i
 Sinta-se à vontade para explorar a base de código e personalizar a aplicação de acordo com suas necessidades!
 
 ## Tecnologias
-
-<img src="./.github/reactjs.svg" width="48" />
-<img src="./.github/typescript.png" width="48" />
-<img src="./.github/styled-components.jpeg" width="48" />
-<img src="./.github/zod.png" width="48" />
-<img src="./.github/react-hook-form.png" width="48" />
-<img src="./.github/react-router-dom.png" width="48" />
+- ReactJS
+- TypesScript
+- Styled Components
+- Zod
+- React Hook Form
+- React Router Dom
+- UUID
 
 ## Funcionalidades
 
